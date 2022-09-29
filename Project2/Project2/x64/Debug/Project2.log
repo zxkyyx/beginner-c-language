@@ -1,0 +1,12 @@
+﻿  各个数据类型大小.c
+D:\vs\Project2\Project2\各个数据类型大小.c(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs\Project2\Project2\各个数据类型大小.c(5,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs\Project2\Project2\各个数据类型大小.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs\Project2\Project2\各个数据类型大小.c(6,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs\Project2\Project2\各个数据类型大小.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs\Project2\Project2\各个数据类型大小.c(7,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs\Project2\Project2\各个数据类型大小.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs\Project2\Project2\各个数据类型大小.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+D:\vs\Project2\Project2\各个数据类型大小.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\vs\Project2\Project2\各个数据类型大小.c(9,9): message : 请考虑在格式字符串中使用“%zd”
+  Project2.vcxproj -> D:\vs\Project2\x64\Debug\Project2.exe
