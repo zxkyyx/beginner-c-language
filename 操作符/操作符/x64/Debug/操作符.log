@@ -1,0 +1,22 @@
+﻿  操作符.c
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(54,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(54,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(55,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(55,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(56,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(56,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(57,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(57,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(58,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(58,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(59,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(59,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(60,9): message : 请考虑在格式字符串中使用“%zd”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(61,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(61,9): message : 请考虑在格式字符串中使用“%lld”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(61,9): message : 请考虑在格式字符串中使用“%Id”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(61,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(31,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\c\beginner-c-language\操作符\操作符\操作符.c(33,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  操作符.vcxproj -> D:\code\c\beginner-c-language\操作符\x64\Debug\操作符.exe
