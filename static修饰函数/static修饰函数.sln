@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static修饰函数", "static修饰函数\static修饰函数.vcxproj", "{BBE12D45-74E4-4634-A403-B7B1B8654D9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Debug|x64.ActiveCfg = Debug|x64
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Debug|x64.Build.0 = Debug|x64
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Debug|x86.Build.0 = Debug|Win32
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Release|x64.ActiveCfg = Release|x64
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Release|x64.Build.0 = Release|x64
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Release|x86.ActiveCfg = Release|Win32
+		{BBE12D45-74E4-4634-A403-B7B1B8654D9C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F20F50-042A-4958-B842-3600FBFC1558}
+	EndGlobalSection
+EndGlobal

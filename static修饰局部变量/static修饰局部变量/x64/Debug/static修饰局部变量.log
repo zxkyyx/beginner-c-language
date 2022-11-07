@@ -1,1 +1,4 @@
-﻿
+﻿  static修饰局部变量.c
+D:\code\c\beginner-c-language\static修饰局部变量\static修饰局部变量\static修饰局部变量.c(11): warning C4716: “test2”: 必须返回一个值
+D:\code\c\beginner-c-language\static修饰局部变量\static修饰局部变量\static修饰局部变量.c(6): warning C4716: “test”: 必须返回一个值
+  static修饰局部变量.vcxproj -> D:\code\c\beginner-c-language\static修饰局部变量\x64\Debug\static修饰局部变量.exe

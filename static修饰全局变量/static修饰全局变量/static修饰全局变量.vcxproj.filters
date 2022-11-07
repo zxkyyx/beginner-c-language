@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="static修饰局部变量.c">
+    <ClCompile Include="static修饰全局变量.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
       <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
